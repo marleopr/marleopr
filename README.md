@@ -26,7 +26,6 @@
   <img align="center" alt="marleopr-Illustrator" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg">
   <img align="center" alt="marleopr-Photoshop" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
   <img align="center" alt="marleopr-Premiere" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg">
-  <img align="center" alt="marleopr-Premiere" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg>
 </div>
   
   ##
