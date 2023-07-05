@@ -18,6 +18,8 @@
   <img align="center" alt="marleopr-Node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
   <img align="center" alt="marleopr-Express" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg">
   <img align="center" alt="marleopr-powershell" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Powershell-Dark.svg">
+</div>
+<div style="display: inline_block"><br>
   <img align="center" alt="marleopr-GIT" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
   <img align="center" alt="marleopr-Bash" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg">
   <img align="center" alt="marleopr-Github" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg">
@@ -29,8 +31,7 @@
   <img align="center" alt="marleopr-Illustrator" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Illustrator.svg">
   <img align="center" alt="marleopr-Photoshop" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg">
   <img align="center" alt="marleopr-Premiere" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg">
-</div>
-  
+  </div>
   ##
  
 <div> 
