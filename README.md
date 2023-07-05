@@ -10,6 +10,7 @@
   <img align="center" alt="marleopr-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
   <img align="center" alt="marleopr-Ts" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img align="center" alt="marleopr-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+  <img align="center" alt="marleopr-React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
   <img align="center" alt="marleopr-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   <img align="center" alt="marleopr-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
   <img align="center" alt="marleopr-mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg">
