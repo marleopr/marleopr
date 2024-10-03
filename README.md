@@ -1,3 +1,4 @@
+ <div align="center"> 
 <div align="center">
 Olá, eu sou o <strong>Márleo Piber da Rosa</strong> ,
 Formado em Análise e Desenvolvimento de Sistemas e Desenvolvedor Web Full Stack.
@@ -42,6 +43,7 @@ Formado em Análise e Desenvolvimento de Sistemas e Desenvolvedor Web Full Stack
   <a href="https://www.instagram.com/marleopr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomarleopr@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marleopiber/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-
+  
+[![Visits Badge](https://badges.pufler.dev/visits/marleopr/marleopr)](https://badges.pufler.dev)
+ </div>
